@@ -1,0 +1,2 @@
+# STM32_GIF_Player
+基于STM32和LCD屏幕播放GIF动图
